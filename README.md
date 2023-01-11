@@ -2,7 +2,7 @@
 
 ![](./design/desktop-design.png)
 
-Essa é um projeto de um site de compras, feito para praticar o CTD (Código Todo Dia).
+Essa é um projeto de um site de compras, feito para praticar o CTD (Código Todo Dia). Projeto em andamento...
 
 ## Tabela de Conteúdos
 
