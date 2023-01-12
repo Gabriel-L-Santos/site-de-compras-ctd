@@ -48,12 +48,37 @@ nav a {
 
 nav a:hover {
   color: #4712d8;
-  text-decoration: underline;
+}
+
+nav a:active {
+  color: #0ed20e;
 }
 
 .produtos-destaque {
   margin: 0 auto;
   padding: 5px;
+}
+
+.precos {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.botao-compra {
+  transition: 1s all;
+  border-radius: 8px;
+}
+
+.botao-compra:hover {
+  color: #ffffff;
+  background: rgb(68, 0, 255);
+  transform: scale(1.1);
+}
+
+.botao-compra:active {
+  color: #0ed20e;
+  
 }
 
 .formulario {
@@ -75,6 +100,8 @@ h2 {
 
 h3 {
   text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 ul {
@@ -85,7 +112,7 @@ ul {
 li {
   display: inline-block;
   width: 200px;
-  margin: 10px;
+  margin: 25px;
   text-align: center;
 }
 
@@ -133,4 +160,5 @@ button {
   font-size: 16px;
   border: none;
   cursor: pointer;
+  margin-top: 20px;
 }
