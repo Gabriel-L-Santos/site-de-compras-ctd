@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Compras Online - Login</title>
+  
+      <link rel="stylesheet" href="reset.css">
+      <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section style="grid-area:header;background: white;height: 140px">
+        <div class="caixa">
+          <div class="imagem-logo">
+            <h1><img src="logo.png" alt="Logo do Site de Compras"></h1>
+          </div>
+        
+          <div class="navegacao">
+            <nav>
+              <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="criar-conta.html">Criar Conta</a></li>
+                <li><a href="login.html">Login</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+    </section>
+
+    <div class="formulario">
+        <h2>Login</h2>
+        <form>
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" name="nome"><br>
+  
+          <label for="email">E-mail:</label>
+          <input type="email" id="email" name="email"><br>
+  
+          <label for="endereco">Endereço:</label>
+          <input type="text" id="endereco" name="endereco"><br>
+  
+          <label for="produto">Produto:</label>
+          <select id="produto" name="produto">
+            <option value="camisa-azul">Camisa azul</option>
+            <option value="calca-jeans">Calça jeans</option>
+            <!-- Adicione mais opções aqui -->
+          </select><br>
+  
+          <label for="quantidade">Quantidade:</label>
+          <input type="number" id="quantidade" name="quantidade"><br>
+  
+          <button type="submit">Enviar pedido</button>
+        </form>
+    </div>
+
+    <footer>
+        <div class="logo-rodape">
+              <img src="logo.png" alt="Logo do Compras Online">
+              <p class="copyright">&copy; Copyright Compras Online - 2023</p>
+        </div>
+    </footer>
+</body>
+</html>
