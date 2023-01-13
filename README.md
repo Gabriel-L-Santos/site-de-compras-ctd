@@ -2,7 +2,7 @@
 
 ![](./design/desktop-design.png)
 
-Essa é um projeto de um site de compras, feito para praticar o CTD (Código Todo Dia). Projeto em andamento...
+Essa é um projeto de um site de compras de nome "Compras Online", feito para praticar o CTD (Código Todo Dia). Projeto em andamento...
 
 ## Tabela de Conteúdos
 
@@ -16,7 +16,7 @@ Texto em breve...
 
 ### Recursos Usados
 
-- [QR Code Generator](https://br.qr-code-generator.com/) - texto em breve...
+- [PNGEgg](https://www.pngegg.com/pt) - foi o site que utilizei para baixar as imagens PNG para colocar no site de compras.
 
 ## Autor do Projeto
 
