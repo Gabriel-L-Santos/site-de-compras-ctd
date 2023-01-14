@@ -21,4 +21,4 @@ Texto em breve...
 ## Autor do Projeto
 
 - GitHub - [Gabriel-L-Santos](https://github.com/Gabriel-L-Santos)
-- Linkedin - [Gabriel Leme dos Santos](https://www.linkedin.com/in/gabriel-leme-dos-santos-7b220b197/)
+- Linkedin - [Gabriel Leme dos Santos](https://www.linkedin.com/in/gabriel-leme-dos-santos/)
