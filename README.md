@@ -35,7 +35,7 @@ Na parte dos produtos, usei como cor de background o cinza claro, pra diferencia
 ### Recursos Usados
 
 - [PNGEgg](https://www.pngegg.com/pt) - foi o site que utilizei para baixar as imagens PNG para colocar no site de compras.
-- [Looka](https://looka.com/) - site que utilizei para fazer a logo "Compras Online".
+- [Looka](https://looka.com/) - foi o site que utilizei para fazer a logo "Compras Online".
 
 ## Autor do Projeto
 
