@@ -1,6 +1,12 @@
 # Site de Compras
 
-![](./design/desktop-design.png)
+![](./imgs-gifs-readme/compras-online.gif)
+
+![](./imgs-gifs-readme/imagem1-compras-online.png)
+
+![](./imgs-gifs-readme/imagem2-compras-online.png)
+
+![](./imgs-gifs-readme/imagem3-compras-online.png)
 
 Este é um projeto de um site de compras de nome "Compras Online", feito para praticar o CTD (Código Todo Dia). O site contém:
 
