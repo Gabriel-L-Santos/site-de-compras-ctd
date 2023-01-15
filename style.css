@@ -59,6 +59,16 @@ nav a:active {
   padding: 5px;
 }
 
+.ocultar-link:link {
+  color: white;
+  text-decoration: none;
+}
+
+.ocultar-link:visited {
+  color: white;
+  text-decoration: none;
+}
+
 .precos {
   margin-top: 20px;
   font-size: 18px;
