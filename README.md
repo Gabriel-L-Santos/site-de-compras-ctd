@@ -1,5 +1,8 @@
 # Site de Compras
 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
 ![](./imgs-gifs-readme/compras-online.gif)
 
 ![](./imgs-gifs-readme/imagem1-compras-online.png)
